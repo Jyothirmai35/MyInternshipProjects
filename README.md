@@ -4,3 +4,6 @@ Task-1:
    Creating a Online-quiz application (Console based Quiz-System)
    This project covers basic concepts such as Data Structures,User input handling,Conditonal Statements
    The Main.java file contains the Question class, Quiz class and at the end it provides the score and Feedback based on the user answers.
+
+Task-2:
+    Creating a Simple URL shortener using Java application and Hash functions
